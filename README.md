@@ -1,4 +1,17 @@
-## Hi there 👋
+### Hi, I'm Ahmad 👋
+
+🎬 Video Editor | 💻 Web Developer | 🎮 Game Dev
+
+**Skills:**
+- Web: HTML, CSS, JS
+- Coding: Python, JS
+- Game: Unity
+- Editing: Premiere Pro, After Effects
+
+**My Work:**
+- Coming Soon...
+
+📩 Discord: Ahmad | DM for work
 
 <!--
 **ahmad-262/ahmad-262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
